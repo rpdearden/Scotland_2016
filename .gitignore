@@ -6,10 +6,7 @@
 *.synctex.gz
 *.toc
 Field trip Document
-Images/*
+Images
 Scotland Organisation.docx
-<<<<<<< HEAD
 Scotland plan.xlsx
-=======
-Scotland plan.xlsx
->>>>>>> origin/master
+
