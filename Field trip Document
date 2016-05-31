@@ -1,0 +1,29 @@
+\documentclass[12pt,letterpaper]{article}
+
+\usepackage{caption} % for the figure captions
+\usepackage[osf]{mathpazo} % a nicer font
+% this is a package for the citation formats: found this formulation sorted natbib errors when changing packages
+%from http://tex.stackexchange.com/questions/54480/package-natbib-error-bibliography-not-compatible-with-author-year-citations
+\usepackage[square,sort,comma,numbers]{natbib} 
+\usepackage{amsmath} % package for equations
+\usepackage{url} % package for urls
+\usepackage{hyperref} % for hyperlinks
+\usepackage{graphicx} % for the figures
+\pagenumbering{arabic} % stating the page number type
+
+\begin{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
