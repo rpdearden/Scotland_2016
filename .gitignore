@@ -5,7 +5,7 @@
 *.out
 *.synctex.gz
 *.toc
-*Field trip Document
-*/Images
-*Scotland Organisation.docx
-*Scotland plan.xlsx
+Field trip Document
+Images/*
+Scotland Organisation.docx
+Scotland plan.xlsx
